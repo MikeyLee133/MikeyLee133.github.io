@@ -10,7 +10,7 @@ const projects = [
     tech: ["Python", "Streamlit", "scikit-learn", "FastAPI", "Docker"],
     github: "https://github.com/MikeyLee133/nba-predictor",
     demo: null,
-    image: null, // replace with "assets/nba.png" once you have a screenshot
+    image: "assets/nba.png",
   },
   {
     name: "ConstructIQ",
@@ -19,6 +19,6 @@ const projects = [
     tech: ["Python", "Streamlit", "RAG", "ChromaDB", "Ollama", "SQLite"],
     github: "https://github.com/MikeyLee133/construct-iq",
     demo: null,
-    image: null, // replace with "assets/constructiq.png" once you have a screenshot
+    image: "assets/contruct.png",
   },
 ];
