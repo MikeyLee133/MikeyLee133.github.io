@@ -19,6 +19,6 @@ const projects = [
     tech: ["Python", "Streamlit", "RAG", "ChromaDB", "Ollama", "SQLite"],
     github: "https://github.com/MikeyLee133/construct-iq",
     demo: null,
-    image: "assets/contruct.png",
+    image: "assets/construct.png",
   },
 ];
