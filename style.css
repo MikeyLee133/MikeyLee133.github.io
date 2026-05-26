@@ -7,16 +7,16 @@
 }
 
 :root {
-  --bg:          #0f1117;
-  --bg-card:     #1a1d2e;
-  --bg-card-hover: #1f2235;
-  --border:      #2a2d3e;
-  --accent:      #6c8fff;
-  --accent-dim:  #3d5adb;
-  --text:        #e2e8f0;
-  --text-muted:  #8892a4;
-  --tag-bg:      #1e2840;
-  --tag-text:    #7fa3ff;
+  --bg:          #12100e;
+  --bg-card:     #1e1a16;
+  --bg-card-hover: #252018;
+  --border:      #332e28;
+  --accent:      #e8a045;
+  --accent-dim:  #c4832a;
+  --text:        #f0e6d3;
+  --text-muted:  #9e8e78;
+  --tag-bg:      #2a2218;
+  --tag-text:    #e8a045;
   --radius:      12px;
   --max-width:   1100px;
 }
