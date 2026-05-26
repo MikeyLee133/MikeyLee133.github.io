@@ -13,6 +13,15 @@ const projects = [
     image: "assets/nba.png",
   },
   {
+    name: "Luna mHealth",
+    description:
+      "Mobile health education app built for rural communities with limited healthcare access. Features an authoring system that lets healthcare professionals create and distribute custom education modules — no engineering support required. Built with a cross-functional team using Agile and TDD.",
+    tech: ["Dart", "Flutter", "Azure", "Git", "XML"],
+    github: null,
+    demo: null,
+    image: null,
+  },
+  {
     name: "ConstructIQ",
     description:
       "AI-powered construction project management. Upload inspection reports, photos, and receipts per build phase — then ask questions in plain English across all documents. Answers are grounded in your files with source citations.",
