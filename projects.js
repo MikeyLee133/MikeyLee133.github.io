@@ -4,10 +4,10 @@
 
 const projects = [
   {
-    name: "NBA Playoff Predictor",
+    name: "The Hardwood Index — NBA Predictor",
     description:
-      "Predicts playoff series outcomes using live stats from the official NBA Stats API. Blends a weighted scoring model with a calibrated logistic regression trained on 6 seasons of historical data. Achieves 72–76% accuracy across 90 held-out series.",
-    tech: ["Python", "Streamlit", "scikit-learn", "FastAPI", "Docker"],
+      "Client-side NBA win-probability terminal styled as an editorial analytics publication. Pick two teams and it projects the winner, win probability, and final score by blending team net ratings with position-by-position starter matchups — plus edge-by-category breakdowns and narrative X-factors. All math runs in the browser; every on-screen number traces to an input.",
+    tech: ["JavaScript", "React", "HTML/CSS", "Statistical Modeling"],
     github: "https://github.com/MikeyLee133/nba-predictor",
     demo: null,
     image: "assets/nba.png",
